@@ -22,8 +22,8 @@ The biggest feature about this challenge was styling the social media link butto
 3. I started styling the bigger components first and gradually made my way to smaller components.  I went back and forth between the design and my output for accuracy.
 
 ## Author and Links
-- GitHub
-- X
-- Live Preview
+- [GitHub](https://github.com/ysstudio22)
+- [X](https://x.com/YoshiCode03)
+- [Live Preview](https://ysstudio22.github.io/Social-Media-Link-Card/)
 
 
