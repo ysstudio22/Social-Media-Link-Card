@@ -27,9 +27,8 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 85vh;
     width: 22rem;
-    padding: 2.2rem;
+    padding: 1.8rem;
     border-radius: 10px;
 }
 
@@ -47,7 +46,7 @@ section {
 img {
     border-radius: 50%;
     height: 5.5rem;
-    margin: 1rem 0;
+    margin: 0.5rem 0;
 }
 
 h3, p {
@@ -84,6 +83,7 @@ button {
     &:hover{
         background-color: var(--Green);
         color: var(--Dark-Grey);
+        transition: 0.8s;
         cursor: pointer;
     }
 }
